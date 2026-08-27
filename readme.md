@@ -27,7 +27,7 @@
 ## 📚 Table of Contents
 
 - [Overview](#-overview)
-- [Overview](#-directory)
+- [Directory](#-directory)
 - [What Is a Bitcoin Mixer?](#-what-is-a-bitcoin-mixer)
 - [How Bitcoin Mixers Work](#-how-bitcoin-mixers-work)
 - [Bitcoin Privacy Fundamentals](#-bitcoin-privacy-fundamentals)
